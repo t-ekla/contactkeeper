@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://tekla:123@contactkeeper-vzthn.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
